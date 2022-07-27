@@ -11,6 +11,8 @@ Desadio de projeto sobre git/github do bootcamp Linux Experience Dio
 <div style="display: inline_block">
   <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+          
           
 
 ## Dados do desenvolvimento:
