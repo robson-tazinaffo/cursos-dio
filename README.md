@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto Git/Github do bootcamp Linux Experience Dio
+# Repositório do Desafio de Projeto Git/Github da Dio
 Desadio de projeto sobre git/github do bootcamp Linux Experience Dio
 
 ## Links Úteis
