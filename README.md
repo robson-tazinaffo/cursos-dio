@@ -1,6 +1,6 @@
 <img align="center" alt="logo DIO" height="60" width="150" src="https://user-images.githubusercontent.com/103616540/181390451-22cbef17-f3b6-4086-b8b9-e98281f080cd.png" />  
 
-# Repositório do Desafio de Projeto Git/Github da Dio
+# Repositório do Desafio de Projeto Git/Github
 Desafio de projeto sobre git/github do bootcamp Linux Experience Dio
 
 ## Links Úteis
