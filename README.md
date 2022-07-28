@@ -4,9 +4,9 @@
 Desafio de projeto sobre git/github do bootcamp Linux Experience Dio
 
 ## Links Úteis
-[Site da Dio] (https://dio.me)
+[Site da Dio](https://dio.me)
 
-[Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Tecnologias
 
