@@ -18,7 +18,7 @@ Desafio de projeto sobre git/github do bootcamp Linux Experience Dio
           
 
 ## Descrição do Desafio
-Reforçar conhecimentos em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Aqui será compartilhados anotações e exercícios pertinentes co Bootcamp Linux Experience DIO.
+Reforçar conhecimentos em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Aqui serão compartilhados anotações e exercícios pertinentes co Bootcamp Linux Experience DIO.
 
 👍 A persistência é o caminho do êxito. 👍
 
