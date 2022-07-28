@@ -12,9 +12,13 @@
 ## Tecnologias utilizadas nos projetos
 
 <div style="display: inline_block">
-  <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Robson-Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="center" alt="git" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+  <img align="center" alt="GitHub" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Ubuntu" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="center" alt="Docker" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Kubernetes" height="70" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+          
+          
           
           
 
