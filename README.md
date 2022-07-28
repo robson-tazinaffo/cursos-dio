@@ -7,6 +7,8 @@
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Download do git](https://git-scm.com/downloads)
+
 ## Tecnologias utilizadas nos projetos
 
 <div style="display: inline_block">
