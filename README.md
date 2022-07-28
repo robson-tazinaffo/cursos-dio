@@ -9,6 +9,10 @@
 
 [Download do git](https://git-scm.com/downloads)
 
+[Download Ubuntu](https://ubuntu.com/download/desktop)
+
+[Download e instakação do Docker](https://docs.docker.com/desktop/install/windows-install/)
+
 ## Tecnologias utilizadas nos projetos
 
 <div style="display: inline_block">
